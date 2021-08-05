@@ -1,0 +1,9 @@
+The combination of automatic packing and unpacking forms a technique known as simultaneous assignment.
+
+activation record, accessors, member functions, mutators or method updators
+
+The process of determining the value associated with an identifier is known as name resolution.
+
+Each distinct scope in Python is represented using an abstraction known as a namespace.
+
+first-class objects are instances of a type that can be assigned to an identifier, passed as a parameter, or returned by a function.
